@@ -1,0 +1,11 @@
+
+Admin Login Details
+
+Username: admin
+Password: 12345
+
+user login 
+
+username: first name of the user(check on the database) + @123.com
+password: 12345
+
